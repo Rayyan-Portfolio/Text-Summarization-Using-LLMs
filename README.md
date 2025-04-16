@@ -69,9 +69,10 @@ In addition to loss, the following metrics are appropriate for evaluating a summ
 
 
  
-
  
 
  
 
-![image](https://github.com/user-attachments/assets/866e0fa0-1b57-4f3d-9459-8f4928e4df07)
+ 
+![image](https://github.com/user-attachments/assets/6799f870-a36b-4ee5-b4d7-019701435d94)
+
